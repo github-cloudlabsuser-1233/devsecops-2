@@ -1,0 +1,34 @@
+{
+  "name": "contoso-traders-website",
+  "version": "1.0.0",
+  "description": "A React application for Contoso Traders showcasing the company's mission and values.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/contoso-traders-website.git"
+  },
+  "keywords": [
+    "react",
+    "website",
+    "contoso",
+    "traders"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
